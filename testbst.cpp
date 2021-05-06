@@ -2,7 +2,6 @@
 // Tests intbst.cpp for CS 24 lab
 
 #include "intbst.h"
-
 #include <iostream>
 using namespace std;
 
