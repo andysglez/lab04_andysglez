@@ -1,4 +1,4 @@
-// intbst.h
+ // intbst.h
 // Binary search tree header file for CS 24 lab
 
 #ifndef INTBST_H
